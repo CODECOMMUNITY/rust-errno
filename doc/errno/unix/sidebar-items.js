@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Errno","Wraps a platform-specific error code."]],"fn":[["errno","Returns the platform-specific value of `errno`."],["set_errno","Sets the platform-specific value of `errno`."]]});
